@@ -4,7 +4,7 @@
 </div>
 <br>
 <div align = "center">
-![Harin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxharin&theme=dark&show_icons=true)
+![Harin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxharin&hide=contribs,prs&show_icons=true&theme=omni)
 </div>
 <!-- ### Hi there 👋 -->
 
