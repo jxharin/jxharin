@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Harin's%20Github&fontSize=75&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:EECDA3,100:EF629F&height=300&section=header&text=Harin's%20Github&fontSize=75&fontColor=FFFFFF)
 <div align = "center">
 🧑🏻‍💻 <b> 조하린의 깃허브  </b>🧑🏻‍💻 
 </div>
