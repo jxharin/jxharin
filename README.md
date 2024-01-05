@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&&color=EECDA3:EF629F&height=300&section=header&text=Harin's%20Github&fontSize=75&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=EECDA3:EF629F&height=300&section=header&text=Harin's%20Github&fontSize=75&fontColor=FFFFFF)
 <div align = "center">
 🧑🏻‍💻 <b> 조하린의 깃허브  </b>🧑🏻‍💻 
 </div>
 <br>
 
 <div align = "center">
-[![Harin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxharin&hide=contribs,prs&show_icons=true&theme=omni)]
+[![Harin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxharin&hide=contribs,prs&show_icons=true&theme=omni)
 </div>
 
 <!-- ### Hi there 👋 -->
