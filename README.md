@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&&color=800080:ffc0cb,100:a82da8&height=300&section=header&text=Harin's%20Github&fontSize=75&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&&&color=EECDA3:EF629F,100:a82da8&height=300&section=header&text=Harin's%20Github&fontSize=75&fontColor=FFFFFF)
 
 <!-- ### Hi there 👋 -->
 
