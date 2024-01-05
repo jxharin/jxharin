@@ -9,8 +9,8 @@
 </div>
 
 <div align = "center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxharin)](https://github.com/anuraghazra/github-readme-stats)
-[![Harin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxharin&hide=contribs,prs&show_icons=true&theme=omni)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxharin)](https://github.com/anuraghazra/github-readme-stats)
+![Harin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxharin&hide=contribs,prs&show_icons=true&theme=omni)
 </div>
 
 <!-- ### Hi there 👋 -->
