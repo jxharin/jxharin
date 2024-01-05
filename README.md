@@ -9,8 +9,9 @@
 </div>
 
 <div align = "center">
+  
 <a href="https://github.com/jxharin"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxharin&layout=compact&theme=nord&hide_border=true" /></a>   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxharin&size_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Harin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxharin&hide=contribs,prs&show_icons=true&theme=omni)
 
 </div>
