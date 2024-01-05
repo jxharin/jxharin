@@ -1,5 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&&color=EECDA3:EF629F,100:a82da8&height=300&section=header&text=Harin's%20Github&fontSize=75&fontColor=FFFFFF)
-
+<div align = "center">
+🧑🏻‍💻 <b> 조하린의 깃허브  </b>🧑🏻‍💻 
+</div>
+<br>
+<div align = "center">
+![Harin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxharin&theme=buefy&show_icons=true)
+</div>
 <!-- ### Hi there 👋 -->
 
 <!--
