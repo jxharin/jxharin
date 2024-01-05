@@ -3,10 +3,10 @@
 🧑🏻‍💻 <b> 조하린의 깃허브  </b>🧑🏻‍💻 
 </div>
 <br>
-<!-- <div align = "center">
+<div align = "center">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjxharin%2Fhit-counter&count_bg=%23FF88BB&title_bg=%23F269A4&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</div> -->
+</div>
 
 <div align = "center">
   
