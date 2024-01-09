@@ -6,6 +6,7 @@
 <div align = "center">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjxharin%2Fhit-counter&count_bg=%23FF88BB&title_bg=%23F269A4&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="https://jxharin.github.io/" target="_blank"><img src="https://img.shields.io/badge/Gitblog-E0EBFF.svg?style=badge&logo=githubsponsors"/></a>
 </div>
 
 <div align = "center">
