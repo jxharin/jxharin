@@ -7,11 +7,11 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjxharin%2Fhit-counter&count_bg=%23FF88BB&title_bg=%23F269A4&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="https://jxharin.github.io/" target="_blank"><img src="https://img.shields.io/badge/Gitblog-E0EBFF.svg?style=badge&logo=bluesky&logoColor=A390EE"/></a>
+<a href="https://velog.io/@hxrinzx/about"><img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>   
 </div>
 
 <div align = "center">
   
-<a href="https://github.com/jxharin"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxharin&layout=compact&theme=nord&hide_border=true" /></a>   
 
 <!-- ![Harin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxharin&hide=contribs,prs&show_icons=true&theme=omni) -->
 
