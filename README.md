@@ -13,7 +13,7 @@
   
 <a href="https://github.com/jxharin"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxharin&layout=compact&theme=nord&hide_border=true" /></a>   
 
-![Harin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxharin&hide=contribs,prs&show_icons=true&theme=omni)
+<!-- ![Harin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxharin&hide=contribs,prs&show_icons=true&theme=omni) -->
 
 </div>
 
